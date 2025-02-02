@@ -18,7 +18,6 @@ fi
 targetDirectory=$1
 destinationDirectory=$2
 
-# [TASK 2]
 echo "$targetDirectory"
 echo "$destinationDirectory"
 
